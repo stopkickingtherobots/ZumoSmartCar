@@ -1,5 +1,3 @@
-// https://core-electronics.com.au/tutorials/how-to-use-bluetooth-modules.html
-
 #include <SoftwareSerial.h>
 
 //Change these to whatever pins you're using
